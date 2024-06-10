@@ -1,10 +1,10 @@
-# Day-32-Responsive-Golf-Landing-Page
+# Day-32of50-Responsive-Golf-Landing-Page
 
-Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
+Embark on an exhilarating journey of web development with the "50 Days, 50 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 50 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
 
 JOIN ME HERE: 
 
-Live Demo:  
+Live Demo: https://codelikeamachine.github.io/Day32of50-Responsive-Golf-Landing-Page/
 
 LinkedIn: http://www.linkedin.com/in/armaansaraswat
 
